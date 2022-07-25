@@ -59,6 +59,15 @@ Notes on the information:
   
 Example: ![image](https://user-images.githubusercontent.com/96984912/180859482-a59aa1a7-2df6-4900-9ad5-201667205c50.png)
 
-3. Commit the changes
-4. Start a pull request!
-![image](https://user-images.githubusercontent.com/96984912/180663849-b0587045-0522-4046-9131-07915e0bbcf1.png)
+3. Select "Propose New File" 
+
+![image](https://user-images.githubusercontent.com/109629064/180860507-a5b3e210-dc8b-4fac-9cc8-7711b46e22ee.png)
+
+4. Select "Create a pull request" in green! :) 
+
+![image](https://user-images.githubusercontent.com/109629064/180860757-c60eb4e0-8ae0-438d-b99f-499a17e1f33b.png)
+
+5. Select "Create Pull Request"! 
+
+![image](https://user-images.githubusercontent.com/109629064/180860847-a86a0d1b-710d-4e17-bbad-1ca441fbe4ec.png)
+
